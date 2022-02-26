@@ -1,0 +1,19 @@
+#flag{https://www.youtube.com/watch?v=Xb6wWEcSeuk}
+
+'''OUTPUT
+Enter expression : print(open("flag1.txt", "r").read())
+flag{https://www.youtube.com/watch?v=Xb6wWEcSeuk}
+
+
+     print(open("flag1.txt", "r").read()) = None 
+        \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
+Enter expression :
+'''
